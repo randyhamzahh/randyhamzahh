@@ -18,5 +18,5 @@ Here are some ideas to get you started:
 - 🔭 I’m currently working on Pusat Layanan Digital, Data, dan Informasi Geospasial. (UPTD PLDDIG). Dinas Komunikasi dan Informatika Provinsi Jawa Barat
 - 🔭 I’m currently building: WhatsApp Bot Activity Tracker
 - ⚙️ Tech: Laravel, Filament, Go, React, PostgreSQL, Docker
-- 📫 How to reach me: www.linkedin.com/in/randy-hamzah-hardianto
+- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/randy-hamzah-hardianto)
 - 🌱 Learning: AWS Deployment, Observability
