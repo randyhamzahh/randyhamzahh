@@ -1,4 +1,3 @@
-## Hi there 👋
 
 <!--
 **randyhamzahh/randyhamzahh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +13,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+### Hi there 👋 I'm Randy
+
+- 🔭 I’m currently working on Pusat Layanan Digital, Data, dan Informasi Geospasial. (UPTD PLDDIG). Dinas Komunikasi dan Informatika Provinsi Jawa Barat
+- 🔭 I’m currently building: WhatsApp Bot Activity Tracker
+- ⚙️ Tech: Laravel, Filament, Go, React, PostgreSQL, Docker
+- 📫 How to reach me: www.linkedin.com/in/randy-hamzah-hardianto
+- 🌱 Learning: AWS Deployment, Observability
